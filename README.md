@@ -1,7 +1,7 @@
 # AEA1-Project
 Forecasting exchange rates using an ARIMA model. 
 
-I am currently undertaking an Masters degree in Economics: Data Science at Tilburg University in the Netherlands. One of the modules in this course is Applied Economic Analysis 1 (AEA1), where we have been tasked with creating a Python Assignment.
+I am currently undertaking a Masters degree in Economics: Data Science at Tilburg University in the Netherlands. One of the modules in this course is Applied Economic Analysis 1 (AEA1), where we have been tasked with creating a Python Assignment.
 
 ## The details of which can be found here:
 
